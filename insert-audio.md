@@ -10,9 +10,11 @@ description: what i did with markdown
 
 本地音乐是夏亚和阿姆罗~~马沙和李阿宝~~阿克西斯决战时的配乐 *beyond the time*
 
-<audio src="./audio/beyond-the-time.mp3"></audio>
+<audio controls src="./audio/beyond-the-time.mp3">
+    beyond the time
+</audio>
 
-在线音频是通过网易云生成的在线播放链接，《fade》Alan Walker
+在线音频是通过网易云生成的在线播放链接，*fade*
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=36990266&auto=1&height=66"></iframe>
 

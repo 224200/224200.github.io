@@ -26,6 +26,6 @@ NJU的猫受到绝大多数学生的喜爱，并受到猫协的保护，档案�
 
 [Prev](./page-operations.md)
 
-[Next](./insert-video.md)
+[Next](./insert-audio.md)
 
 [Home](./index.md)

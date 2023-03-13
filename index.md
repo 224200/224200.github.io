@@ -14,8 +14,6 @@ description: Home page of the site
   
   + [insert & adjust pictures](./insert-&-adjust-pictures.md)
 
-  + [insert video](./insert-video.md)
-
   + [insert audio](./insert-audio.md)
 
   [和园东边的山](./out0.md)

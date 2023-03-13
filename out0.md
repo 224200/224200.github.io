@@ -28,4 +28,4 @@ description: run around
 
 [Prev](./preface.md)
 
-[Homw](./index.md)
+[Home](./index.md)

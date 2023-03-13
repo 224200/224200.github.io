@@ -6,7 +6,7 @@ description: what i did with markdown
 
 # Page Operations
 
-在这里尝试各种操作哦
+在这里尝试各种操作
 
 [Prev](./preface.md)
 

@@ -4,8 +4,6 @@ title: Home
 description: Home page of the site
 ---
 
-# Home 
-
 *Welcome to my page*
 
 ## Content 

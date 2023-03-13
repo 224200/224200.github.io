@@ -21,3 +21,7 @@ description: preface of the site
 如果继续想下去，真的能得到一个让自己信服的答案吗？
 
 我尝试在这里记录NJU生活的一部分，希望将来回顾这段经历时不会无从下手（当然唯一的问题是毕业之后南京大学的学生邮箱无法继续使用，这个账号应该也会被注销T_T，不过网页应该会保留下来)
+
+[Next](./page-operations.md)
+
+[Home](./index.md)

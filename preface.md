@@ -1,3 +1,9 @@
+---
+layout: default
+title: 序
+description: preface of the site
+---
+
 # 序
 
 我不明白为什么要加上这一页，不过既然这些页面的制作灵感来源于操作系统课的实验手册，在结构上也照搬这一部分

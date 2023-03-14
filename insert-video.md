@@ -10,8 +10,7 @@ description: what i did with markdown
 
 泽野弘之 《银河英雄传说》 *Tranquility*
 
-<iframe frameborder="no" border="0" marginwidth="0"
-marginheight="0" width=600 height=400 src="//www.bilibili.com/video/BV1zY4y147Wj/?spm_id_from=333.337.search-card.all.click&vd_source=c8dcd00efff5abd8ed83f0aa6a219406"></iframe>
+<iframe src="//player.bilibili.com/player.html?aid=641510101&page=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 [Prev](./insert-audio.md)
 

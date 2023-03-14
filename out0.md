@@ -26,6 +26,6 @@ description: run around
 
 下午五点多种的时候出去的，走了没多久天就渐渐暗下来。本来以为在山上能清楚地看到日落，没想到西边天上这么多云。其实下面的车流似乎更不错，不过我没弄明白怎么对焦到高架下面的路上。
 
-[Prev](./insert-audio.md)
+[Prev](./insert-video.md)
 
 [Home](./index.md)

@@ -28,4 +28,6 @@ description: run around
 
 [Prev](./insert-video.md)
 
+[Next](./fairwell.md)
+
 [Home](./index.md)

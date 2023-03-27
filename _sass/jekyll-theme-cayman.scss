@@ -112,7 +112,7 @@ a {
   color: $header-heading-color;
   text-align: center; // 设置头中文字的位置
   background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color); // 蓝绿渐变的背景色
 
   @include large {
     padding: 5rem 6rem;

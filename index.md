@@ -19,3 +19,5 @@ description: Home page of the site
   + [insert video](./insert-video.md)
 
   [和园东边的山](./out0.md)
+
+  [Fairwell](./fairwell.md)

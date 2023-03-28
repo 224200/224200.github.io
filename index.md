@@ -20,4 +20,4 @@ description: Home page of the site
 
   [和园东边的山](./out0.md)
 
-  [Fairwell](./fairwell.md)
+  [Farewell](./fairwell.md)

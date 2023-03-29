@@ -10,7 +10,7 @@ description: empty
 
 高二下学期在窗户上磕到脑袋的那个周末，中午回去的时候又把这部电影找出来，放弃了一部分午休的时间一直看到结尾，一直到晚上做周练的时候仍然沉浸在那个充满奇幻的世界中。
 
-新海诚似乎在极致的物哀之美和常理中的幸福之间找到了平衡，既不会让人感到无聊，也没有通过让人目眩的、极度自我的意象冲击观众的感官。
+新海诚似乎在极致的物哀之美和常规意义上的幸福之间找到了平衡，既不会让人感到无聊，也没有通过让人目眩的、极度自我的意象冲击观众的感官。
 
 <iframe src="//player.bilibili.com/player.html?aid=32309357&page=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 

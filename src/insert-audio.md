@@ -10,7 +10,7 @@ description: what i did with markdown
 
 本地音乐是夏亚和阿姆罗~~马沙和李阿宝~~阿克西斯决战时的配乐 *beyond the time*
 
-<audio controls src="./audio/beyond-the-time.mp3">
+<audio controls src="../audio/beyond-the-time.mp3">
     beyond the time
 </audio>
 

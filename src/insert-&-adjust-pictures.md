@@ -8,7 +8,7 @@ description: what i did with markdown
 
 尝试在page中插入图片并调整格式（单纯使用文字显而易见地难以接受
 
-<img src="./fig/wallpaper.jpg"
+<img src="../fig/wallpaper.jpg"
 width="600"
 height="400"/>
 
@@ -16,7 +16,7 @@ ubuntu风格的壁纸之一
 
 在行间插入图片也是可行的
 
-<img src="./fig/another-cat.jpg"
+<img src="../fig/another-cat.jpg"
 width="40"
 height="40"/> : 喵
 

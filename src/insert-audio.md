@@ -22,7 +22,7 @@ description: what i did with markdown
 
 [Next](./insert-video.md)
 
-[Home](./index.md)
+[Home](../index.md)
 
 
 

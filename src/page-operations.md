@@ -22,4 +22,4 @@ description: what i did with markdown
 
 [Next](./insert-&-adjust-pictures.md)
 
-[Home](./index.md)
+[Home](../index.md)

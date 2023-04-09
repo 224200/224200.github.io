@@ -26,4 +26,4 @@ height="40"/> :《铃芽之旅》你看不看吧
 
 [Next](./out1.md)
 
-[Home](./index.md)
+[Home](../index.md)

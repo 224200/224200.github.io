@@ -24,4 +24,4 @@ description: preface of the site
 
 [Next](./page-operations.md)
 
-[Home](./index.md)
+[Home](../index.md)

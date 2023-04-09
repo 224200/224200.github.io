@@ -30,4 +30,4 @@ description: run around
 
 [Next](./fairwell.md)
 
-[Home](./index.md)
+[Home](../index.md)

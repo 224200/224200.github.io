@@ -8,18 +8,18 @@ description: Home page of the site
 
 ## Content 
 
-  [序](./preface.md)
+  [序](./src/preface.md)
 
-  [Page Operations](./page-operations.md)
+  [Page Operations](./src/page-operations.md)
   
-  + [insert & adjust pictures](./insert-&-adjust-pictures.md)
+  + [insert & adjust pictures](./src/insert-&-adjust-pictures.md)
 
-  + [insert audio](./insert-audio.md)
+  + [insert audio](./src/insert-audio.md)
 
-  + [insert video](./insert-video.md)
+  + [insert video](./src/insert-video.md)
 
-  [和园东边的山](./out0.md)
+  [和园东边的山](./src/out0.md)
 
-  [Farewell](./fairwell.md)
+  [Farewell](./src/fairwell.md)
 
-  [地铁与羊山公园](./out1.md)
+  [地铁与羊山公园](./src/out1.md)

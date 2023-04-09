@@ -16,4 +16,4 @@ description: what i did with markdown
 
 [Next](./out0.md)
 
-[Home](./index.md)
+[Home](../index.md)

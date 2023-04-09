@@ -20,6 +20,6 @@ description: run around
 
 [Prev](./fairwell.md)
 
-[Home](./index.md)
+[Home](../index.md)
 
 

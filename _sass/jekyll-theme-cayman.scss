@@ -164,7 +164,7 @@ a {
 
 .main-content {
   word-wrap: break-word;
-
+  
   :first-child {
     margin-top: 0;
   }
@@ -382,7 +382,9 @@ a {
 
 .sidebar {
   width: 15%;
-  
+  margin: 20px;
+  position: fixed;
   color: $blockquote-text-color;
   text-align: left;
+  
 }

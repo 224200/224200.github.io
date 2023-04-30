@@ -18,6 +18,9 @@ description: what i did with markdown
 
 上述的做法是使用iframe结构，还没有试过video结构
 
+
+在网页中添加侧边栏，采用fixed参数固定侧边栏位置。在较窄的页面加载时出现main-content的内容和sidebar的内容重合，在main-content对应的css文件中添加margin-left参数解决。侧边栏的内容添加超链接，最开始采用绝对路径，除了Home页外无法打开。解决方法是直接从网页中view page source，摘取现有的超链接代码实现。采用相对路径，通过<li>结构封装。
+
 [Prev](./preface.md)
 
 [Next](./insert-&-adjust-pictures.md)

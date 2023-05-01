@@ -14,6 +14,6 @@ description: what i did with markdown
 
 [Prev](./insert-audio.md)
 
-[Next](./out0.md)
+[Next](./sample.md)
 
 [Home](../index.md)

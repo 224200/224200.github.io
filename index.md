@@ -18,6 +18,8 @@ description: Home page of the site
 
   + [insert video](./src/insert-video.md)
 
+  + [new page](./src/sample.md)
+
   [和园东边的山](./src/out0.md)
 
   [Farewell](./src/fairwell.md)

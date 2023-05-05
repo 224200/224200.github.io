@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: remix
 title: Home
 description: Home page of the site
 ---

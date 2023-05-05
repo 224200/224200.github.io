@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: remix
 title: Insert Audio
 description: what i did with markdown
 ---

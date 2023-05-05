@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: remix
 title: 序
 description: preface of the site
 ---

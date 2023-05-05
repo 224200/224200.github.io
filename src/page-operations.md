@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: remix
 title: Page Operations
 description: what i did with markdown
 ---

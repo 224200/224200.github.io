@@ -1,5 +1,5 @@
 ---
-layout: layout0
+layout: layout1
 title: Sample
 description: empty
 ---

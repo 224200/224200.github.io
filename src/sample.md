@@ -15,6 +15,11 @@ description: empty
 
 header节采用新类my-header，采用新的颜色合成背景图片。
 
+## 2023.5.5
+
+
+尝试添加粒子特效，从csdn上抄了一坨代码下来希望能正常运行，然而没有成功。
+
 [Prev](./insert-video.md)
 
 [Next](./out0.md)

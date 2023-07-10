@@ -1,5 +1,5 @@
 ---
-layout: remix
+layout: default
 title: Fairwell
 description: empty
 ---

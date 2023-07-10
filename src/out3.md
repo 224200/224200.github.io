@@ -1,5 +1,5 @@
 ---
-layout: remix
+layout: default
 title: 
 description: 
 ---
@@ -86,5 +86,7 @@ height="200">
 等到挤地铁回来，已经是晚上9点多钟。放假第一天，不少同学已经回家，路上行人不多。
 
 [Prev](./out1.md)
+
+[Next](./out4.md)
 
 [Home](../index.md)

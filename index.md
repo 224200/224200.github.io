@@ -1,5 +1,5 @@
 ---
-layout: remix
+layout: default
 title: Home
 description: Home page of the site
 ---
@@ -27,3 +27,5 @@ description: Home page of the site
   [地铁与羊山公园](./src/out1.md)
 
   [明瓦廊 & 夫子庙](./src/out3.md)
+
+  [玄武湖 & 钟山风景区](./src/out4.md)

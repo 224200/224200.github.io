@@ -1,5 +1,5 @@
 ---
-layout: remix
+layout: default
 title: Insert Video
 description: what i did with markdown 
 ---

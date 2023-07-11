@@ -133,7 +133,6 @@ height="200">
 width="200"
 height="200">
 </td>
-
 <td width="200">
 享殿周围的古建筑，有点old-fashion。享殿应该是重建的，在卖纪念品，真是防不胜防。隔着窗户看去，几个灯泡分外扎眼，不知道的还以为明朝人也要搞现代化了。
 </td>
@@ -146,6 +145,7 @@ height="200">
 <img src="../fig/out4/up.jpg"
 width="200"
 height="200">
+</td>
 <td>
 <img src="../fig/out4/down.jpg"
 width="200"

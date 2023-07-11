@@ -173,7 +173,7 @@ height="200">
 
 ~~想不到吧，虚晃一枪~~
 
-<a herf="https://i.y.qq.com/v8/playsong.html?songid=880413#webchat_redirect">この夜を止めてよ</a>
+<a herf="https://y.qq.com/n/ryqq/songDetail/880413">この夜を止めてよ</a>
 
 [Prev](./out3.md)
 

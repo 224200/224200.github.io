@@ -31,3 +31,5 @@ description: Home page of the site
   [玄武湖 & 钟山风景区](./src/out4.md)
 
   [Wayback](./src/wayback.md)
+
+  [Demo](./src/demo.md)

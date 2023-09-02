@@ -178,4 +178,6 @@ height="200">
 
 [Prev](./out3.md)
 
+[Next](./wayback.md)
+
 [Home](../index.md)

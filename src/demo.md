@@ -28,3 +28,7 @@ demo的全称是demonstration，意味着并非是最终版本，而是用于展
 
 一个可能的做法是做成微信小程序，需要进行web前端开发，同时需要保证安全性
 
+[Prev](./wayback.md)
+
+[Home](../index.md)
+

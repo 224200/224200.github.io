@@ -44,4 +44,6 @@ gradio, flask
 
 [Prev](./out4.md)
 
+[Next](./demo.md)
+
 [Home](../index.md)

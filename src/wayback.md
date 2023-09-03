@@ -42,6 +42,10 @@ wayback 和 way back 翻译起来是不一样的
 
 gradio, flask
 
+来，我们再贴一个
+
+<iframe src="//player.bilibili.com/player.html?aid=854446770&page=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
 [Prev](./out4.md)
 
 [Next](./demo.md)

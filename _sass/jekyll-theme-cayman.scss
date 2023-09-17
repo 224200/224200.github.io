@@ -109,11 +109,11 @@ a {
 .page-header { 
   width: 100%;
   height: 50%;
-  color: $header-heading-color;
+  color: $header-lastwords;
   text-align: center; // 设置头中文字的位置
-  background-color: $header-bg-color;
+  //background-color: $header-bg-color;
   // 创建渐变色图片
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color); // 蓝绿渐变的背景色
+  //background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color); // 蓝绿渐变的背景色
 
   @include large {
     padding: 5rem 6rem;

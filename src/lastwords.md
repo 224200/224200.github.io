@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: lastwords
 title: Last Words
 description:
 ---  
